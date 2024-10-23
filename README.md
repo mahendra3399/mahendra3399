@@ -39,6 +39,8 @@
 </tr>
 </table>
 
+[![An image of @mahendra3399's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mahendra3399)](https://holopin.io/@mahendra3399)
+
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
 
 
